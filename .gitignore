@@ -1,0 +1,8 @@
+
+*.csv
+*.json
+Part01/example.jpg
+Part01/example.mat
+Part01/example.npy
+Part01/example.pkl
+Part01/example.txt
