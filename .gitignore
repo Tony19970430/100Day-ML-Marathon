@@ -6,3 +6,4 @@ Part01/example.mat
 Part01/example.npy
 Part01/example.pkl
 Part01/example.txt
+*.gz
